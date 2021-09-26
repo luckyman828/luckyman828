@@ -20,7 +20,7 @@ I have developed many successful sites so far with mentioned skills.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@web.developer828828](https://t.me/web.developer828828)
+- 💬 skype : live:.cid.299f9c6a70cd3f50
 - 📝 Email : web.developer828828@gmail.com
 
 **Languages and Tools:**   
