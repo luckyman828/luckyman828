@@ -40,7 +40,7 @@ I have developed many successful sites so far with mentioned skills.
 
 
 
-<!-- ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=luckyman828&show_icons=true&theme=radical) -->
+![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=luckyman828&show_icons=true&theme=radical)
 
 
 
