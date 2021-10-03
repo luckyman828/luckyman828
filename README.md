@@ -43,7 +43,7 @@ I have developed many successful sites so far with mentioned skills.
 <!-- ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=luckyman828&show_icons=true&theme=radical) -->
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=webdeveloper104433&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=luckyman828&column=7&theme=light"/>
 </p>
 
 
