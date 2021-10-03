@@ -40,9 +40,11 @@ I have developed many successful sites so far with mentioned skills.
 
 
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=luckyman828&show_icons=true&theme=radical)
+<!-- ![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=luckyman828&show_icons=true&theme=radical) -->
 
-
+<p align="center" style="margin-bottom: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=webdeveloper104433&column=7&theme=onedark"/>
+</p>
 
 
 ⭐️ From [web.developer828828](https://github.com/luckyman828)
