@@ -1,7 +1,6 @@
 
 <!-- ### Hey 👋🏽, I'm [web.developer828828](https://t.me/web.developer828828)   -->
-### Hi 👋🏽, I'm luckyman828  
-
+### Hi 👋🏽, I'm Senior Web & Blockchain Developer
 <br/>
 
 Hi, I'm a Senior Web and Blockchain Developer.
